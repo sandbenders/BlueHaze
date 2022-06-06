@@ -1,4 +1,6 @@
-# creativeAI-dataset
+# BLUE HAZE - A Python tool to create a creativeAI-dataset
+
+
 
 ## Project Aims and Objectives
 
