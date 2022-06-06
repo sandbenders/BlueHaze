@@ -1,4 +1,5 @@
-# BLUE HAZE - A Python tool to create a creativeAI-dataset
+# BLUE HAZE
+## A Python tool to create a creativeAI-dataset
 
 
 
